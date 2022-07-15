@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/rahul-kumar-799121123/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="kumar.rahul226@gmail.com">
+  <a link=mailto:kumar.rahul226@gmail.com>
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"/>
   </a>
 </div>
