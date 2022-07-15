@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a mailto:kumar.rahul226@gmail.com>
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"/>
+    <img src="https://img.shields.io/badge/-kumar.rahul226@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kumar.rahul226@gmail.com" alt="Gmail Badge"/>
   </a>
 </div>
 
