@@ -15,7 +15,7 @@
   <a href="mailto:kumar.rahul226@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-resume-link">
+  <a href="https://rahulk9520.github.io/RKAnalyst.github.io/">
     <img src="https://img.shields.io/badge/Resume-View-informational?style=flat-square&logo=readcv" />
   </a>
 </p>
