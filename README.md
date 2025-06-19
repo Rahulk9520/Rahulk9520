@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://drive.google.com/file/d/1XjSu5nqG2QCYgP4aHGPHj7l35Prgzhpt/view?usp=drive_link" alt="AI Innovator Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Rahul 👋</h1>
 <p align="center">
   <b>AI Innovator | Data Science Enthusiast | Building the Future with Code and Creativity</b>
