@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-ai-banner-image-url" alt="AI Innovator Banner" width="100%" />
+  <img src="https://drive.google.com/file/d/1XjSu5nqG2QCYgP4aHGPHj7l35Prgzhpt/view?usp=drive_link" alt="AI Innovator Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Rahul 👋</h1>
